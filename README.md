@@ -1,4 +1,5 @@
-# Curso de flex-box
+# FlexBlog
 
--> Flex Container
-display: flex;
+Código gerado durante o curso [CSS Flexbox](https://www.origamid.com/curso/css-flexbox/) da Origamid
+
+<img src="screenshots/p1.png" alt="screenshot" width="100%"/>
